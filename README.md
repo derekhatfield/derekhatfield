@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="500" height="300"/>
 </div>
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/derek-hatfield/">
@@ -10,7 +11,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 Hey there! My name's Derek and I'm a passionate, creative, and detail-oriented software development bootcamp student excited to pivot my 9-year-long career in retail into the stimulating world of tech. For as long as I can remember, I've had a huge interest in technology and problem-solving. I was always the person that my family, friends, and co-workers would go to if they had some kind of issue with their computer. I loved trying to solve their problem by first messing around with it myself, and if that failed by doing some research to try and find a fix. This desire and ability to efficiently find solutions to problems allowed me to thrive in my previous role as an Operations Manager in retail. I was able to use and develop my creativity and problem-solving skills in this role in many ways, such as by executing monthly visual product launch presentations.
 
