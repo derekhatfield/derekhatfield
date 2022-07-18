@@ -17,6 +17,16 @@ Hey there! My name's Derek and I'm a passionate, creative, and detail-oriented s
 
 Unfortunately, however, I wasn't able to explore my true passion for technology in the retail field. That's why I decided to take the plunge and am now enrolled in the Java Development bootcamp program at Tech Elevator. Here, I am learning the skills needed to start a career in the software development industry. After graduating, I am looking for a junior developer position where I can utilize my skills to effectively create solutions to business problems. I am excited to work for a company where I can be challenged, and where I can continue to grow and learn.
 
+#### :sparkles: Technical Skills: 
+- Java
+- HTML
+- CSS
+- Javascript
+- PostgreSQL
+- Spring Boot
+- Vue.js
+- Git
+
 <!---
 derekhatfield/derekhatfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
